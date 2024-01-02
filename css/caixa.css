@@ -1,0 +1,13 @@
+.caixa{
+    border: 3px solid black;
+    width: 400px;
+    height: 400px;
+    text-align: center;
+    margin: auto;
+    font-family: 'Fira Code', monospace;
+    margin-top: 50px;
+}
+.escreve-caixa{
+    width: 250px;
+    margin-left: 70px;
+}

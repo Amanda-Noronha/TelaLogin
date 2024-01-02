@@ -1,0 +1,14 @@
+.botao{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    background-color: #120a8f;
+    color: white;
+}
+.botao:hover{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    background-color: #053f77;
+    color: black;
+    border-bottom: 5px solid purple;
+    border-right: 5px solid purple;
+}
